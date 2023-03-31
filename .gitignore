@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+/화살표 1,2차함수.png
 
 # testing
 /coverage
